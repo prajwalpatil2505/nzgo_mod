@@ -22,7 +22,7 @@ mechanism to avoid polling the database while waiting for more work to arrive.
         "fmt"
         "time"
 
-        "github.com/IBM/nzgo"
+        "github.com/prajwalpatil2505/nzgo_mod/v12"
     )
 
     func doWork(db *sql.DB, work int64) {

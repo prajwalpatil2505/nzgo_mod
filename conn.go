@@ -25,7 +25,7 @@ import (
 	"unicode"
 	"unsafe"
 
-	"github.com/IBM/nzgo/oid"
+	"github.com/prajwalpatil2505/nzgo_mod/v12/oid"
 )
 
 // Common error types
