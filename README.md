@@ -5,7 +5,7 @@ This project provides a native Go language database driver for IBM Performance S
 
 ## Install
 
-`go get github.com/IBM/nzgo`
+`go get github.com/prajwalpatil2505/nzgo_mod/v12`
 
 ## Docs
 
